@@ -1,5 +1,5 @@
 Description:
-My Bank Management System project in C++ aims to streamline banking operations and enhance customer service through efficient management of accounts, transactions, and customer information. This system provides a user-friendly interface for both bank staff and customers, enabling easy access to account details, fund transfers, account management, and more.
+My Bank Management System project in C++ aims to streamline banking operations and enhance customer service through efficient management of accounts, transactions, and customer information. This system provides a user-friendly interface for both bank staff and customers.
 
 Key Features:
 
